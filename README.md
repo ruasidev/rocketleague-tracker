@@ -3,4 +3,4 @@ automatically finds rocket league ranks from an EPIC Username using selenium and
 
 created in 61 lines in 15 minutes ;)
 
-data source credit to TRN Tracker Network @https://tracker.gg/
+data source credit to TRN Tracker Network https://tracker.gg/
